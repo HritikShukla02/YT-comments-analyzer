@@ -1,86 +1,212 @@
-,comment_id,author_id,author_name,comment,likes,replies,comment_polarity,comment_subjectivity,sentiment_cat
-0,UgxRofxeZzMNX8zfYq54AaABAg,UCPUYyo8XaDTilCiVtXBSaIQ,@JaiThera,"I disagree, respectfully.",29,3,0.5,0.7,Positive
-1,UgyPSL030-fDTW5xiJZ4AaABAg,UC6W-GhhMHBERfb3bzlex5Vg,@learninggcn1113,Not hate . We need love to warm the world.,28,3,0.5,0.7000000000000001,Positive
-2,UgwZLveBvqUkL1lPAbN4AaABAg,UCZrrjnXmq5Bejm7_mcPECTg,@ZeCahli,Practice what you preach.,25,1,0.0,0.0,Moderate
-3,UgxCCwYFO0y4zWgSePJ4AaABAg,UCMfjoKzB4iFQNoIZ7v80VlQ,@aaron.antczak,Reading through these comments I can't seem to understand why anyone would think this speech is anything other than positive.. strong message!,25,2,0.21464646464646464,0.5512626262626262,Positive
-4,UgwmHEud2GPL75EPRxF4AaABAg,UCC0Bs4HVwgKVNKIX-q90iaQ,@igorGriffiths,"A very timely video, with the UK media and thought leaders stirring up anger amongst their followers against their usual targets, the divisions in our society have never felt wider",22,1,-0.25,0.25,Negative
-5,UgwtlpsQ3svEcYZmHbZ4AaABAg,UCHa-yYSCBC9UGO-GbLanVUw,@AlexandruG09,"Remember when TED Talks used to be awesome ?
+comment_id,author_id,author_name,comment,likes,replies,comment_polarity,comment_subjectivity,sentiment_cat
+Ugx1QvNc46yn5MLopMx4AaABAg,UCNAtJ28y8iG62dlPp1GNUSg,@nicolasmaldonado1428,"You were very careful to point out that the energy that comes out was twice the energy put in by the laser. But totally forgot to mention the efficiency of the laser itself, which I think is something around 10%. This is why it doesn't work right now. It stills needs to produce 10x more energy than the laser to break even the electric input, and this is not even counting the efficiency of the electric grid. We are not even close. It's a goal worth pursuing but it's very disingenuous to picture it like this. 
 
-Pepperidge farm remembers",19,9,1.0,1.0,Very Positive
-6,Ugw0E00LsYpGCTEa6Jp4AaABAg,UCZfH2xd2eRfVsU--y82_KKw,@Simonfnp,"TED talk by a politician, nahhhhhh",15,0,0.0,0.0,Moderate
-7,Ugz7zRfrx8K2UjbO0OF4AaABAg,UCwc81pSVIP1yiHObcNzZiLw,@joshuawoodbridge6267,Holy Moly... He just solved hatred 😮,14,0,0.0,0.0,Moderate
-8,UgyYbwB7RR_q-E-YffV4AaABAg,UClSY-9azHrFt6SpsUv-vKWA,@crunchystuff3365,"Thanks, but no thanks. Politicians on TED talks, blowing their own horn. Nope.",14,1,0.2333333333333333,0.4666666666666666,Positive
-9,Ugzb1hDLbHEYPY3Z3kV4AaABAg,UCEG_rDM65nhV3Zqhmi1HcNQ,@rodintoulouse3054,Most of these comments show that sadly too many people are not willing to even acknowledge the existence of someone that could think differently to them… let alone live alongside them 😢,12,0,0.08522727272727272,0.6416666666666667,Moderate
-10,UgxKQCiSk0kFpKDrWoV4AaABAg,UCC-RR1DNEs108eYcBzYpRxw,@careneh33,"Did we learn anything about the ""how"" in the ""how to disagree with respect""?",11,7,0.0,0.0,Moderate
-11,Ugy8r52Oic4M0PRLEfR4AaABAg,UCnFEUAUVWrmvwlqDlC_1hCw,@justoneman3916,Excellent message!!!,11,0,1.0,1.0,Very Positive
-12,UgxSXQ43cfOJRByQtc54AaABAg,UCGulkKoWZ7YOvl_cMnw2yGw,@user-ew8xj5pg7y,"God loves you and cares for you so that this message reaches you. God is the one who created this large universe and controls it completely. The greatest loss a person loses in this life is that he lives without knowing God who created him and knowing the Messenger of Muhammad, the last of the messengers, and the Islamic religion, the last of the heavenly religions.  Great intelligence, before you believe in something or not, is to read it, study it, and understand it well, and after that you have the choice to believe in it or not to believe in it. I advise you to do this now, before you no longer have time to do so. Life is very short. It is just a test, just a passage to eternal life. Great advice to those who...  Understands",8,3,0.2904761904761905,0.43910052910052916,Positive
-13,Ugw2LcLdO7oI5SJsabJ4AaABAg,UCdZT9eePrtbqzV6F_wGnytw,@chrisweaver7401,"Worthwhile sentiments all. However, it was disappointing that he dismisses the idea that he, as a politician and governor of Utah, is in any way responsible for improving politics. As a Republican one party state, toxicity between the parties isn’t the problem. The toxic rhetoric lies within the Republican Party. His party. Disagreeing better still requires disagreement in the face of partisan toxicity, especially when it’s coming from within your political tribe. Why place the burden of change on the electorate as you turn a blind eye to the problem among your political peers. You have chosen to endorse Trump in the 2024 election knowing what a threat he poses. Practice what you preach. The call is coming from inside the house.",8,0,0.012500000000000011,0.5145833333333333,Moderate
-14,Ugxze7WCEtm-9nO-L7p4AaABAg,UCkIRE8zSZei0aPgvggq62Jg,@vannakolin1814,There was a time this world responded in decency!!!,7,2,0.0,0.0,Moderate
-15,Ugz39c6S3XB1YEMhjfx4AaABAg,UCuNlDS9hAl-ItPwDFO3eb0g,@fashiongik,absurd,7,1,-0.5,1.0,very Negative
-16,Ugw4bN_3RpACsMdttHt4AaABAg,UCaFwdfAmMAzdWMbldj5qGfw,@tyrranicalt-rad6164,"So, what ? Just because you can disagree with respect, you think you're better than me, Huh ?!?! *Shouted in angry druken slurred speech 🤣",7,0,0.140625,0.75,Moderate
-17,UgwIs_bxY45aBSmwA2t4AaABAg,UCaG3OyJnzUU7AoHD_m8k8vg,@Deepak-mk1fi,Imagine Modi and Rahul Gandhi like this,6,1,0.0,0.0,Moderate
-18,UgyBDt7QZjsM17LK2bl4AaABAg,UC17Gt_JezjC9HJgZaAUl9cw,@davidphilpott2487,"Unfortunately, I live and work surrounded by people far further right than me and spending time with them just reminds me of how nuts they are. I also don't consider ""moderation"" a virtue at all. Consider how ridiculous the statements of ""We should only breathe a moderate amount"" or ""It is important to have a moderate amount of rape"" are. In general, you should either have A LOT of something or as little as possible.
+We are going to learn a lot during this process which is by itself a worthy goal, but I don't see fusion as a viable energy source. All this money should be going to geothermal research.",22,10,0.21272108843537413,0.5979591836734693,Positive
+UgwCw66lcoYHrzIcqQV4AaABAg,UCxPlOYLsjwfFcxPIPg1JAfw,@ragingrhino333,I swear every second movie in the 90’s mentioned this and It didn’t happen. Here it is again….,14,2,0.0,0.0,Moderate
+Ugy3qr2SzjCZQv3pD-F4AaABAg,UCklcOwx9Qw-rMLhhsOZ1QVQ,@travisleith1146,I missed the part where she explains how to extract heat from a miniature thermonuclear explosion and turn it into work.,12,1,0.0,0.0,Moderate
+UgyRorwzo82sdEHTgA14AaABAg,UCcIOKtHN1KM_4FegJ-_JpSA,@clbcl5,May the Force be with you.,11,1,0.0,0.0,Moderate
+UgyQpW-dET9tTuDsDz14AaABAg,UC4BwhBkc0YiGWWHjuRiHYBQ,@julesvandijck5022,"In theory this sounds perfect, but in practice there are many downsides, like safety, costs and scalibility. This technology will only be implemented on a large scale in 30-40 years, and in that period the world must already be energy neutral. Also, the costs/kwh are 3-4x higher than of solar and wind, which are easily scalable and intergratable in the current energy grid.
 
-Not to mention, I have no desire to respect people who have demonstrated their desire to ruin or even END lives. And I hear this stuff from THEIR OWN MOUTHS, in person, not just from the news.",6,1,0.08086496836496836,0.7642857142857143,Moderate
-19,UgxAL4GgA98-FF-opNR4AaABAg,UCxq1jVqDBEt40laEOIdMacQ,@cigarpuppy,"I wonder if TED posted the old J.D. Vance video yesterday, knowing that it would cause division, so they could attempt to make a point with this one. That's an interesting strategy.",5,0,0.3,0.35,Positive
-20,UgwAsbgUeN05CYMssLR4AaABAg,UC74glbN0Ug-aanIPErhIO7Q,@dawnshire2069,"A meaningful encounter meaningful life. With cooperate and gratefulness. Success Understanding between parties. Stay focus less worry. Taste and feel life instead of data overehelming and mental disturbed. Understand, feel others just like you understand yourselves with love.",4,0,0.25555555555555554,0.3111111111111111,Positive
-21,Ugw9DAhCulWgBMiSsLt4AaABAg,UCdVqvhfWl0cH-WdC6YexHGw,@DogsReignSupreme,Wonderful!,4,0,1.0,1.0,Very Positive
-22,UgxI2WwRsZEXvJusC2t4AaABAg,UCIIcKmjMUXK2I2_TUmVqJWQ,@flourish_ol,I just want to comment on how liberating it was to see this video in a time like this,4,0,0.0,0.0,Moderate
-23,UgyDyWKM0-MhYee_JiJ4AaABAg,UCoDhNsgzJ0mP1jc4An3BohQ,@landedinlukla,Whata refreshing idea.,4,0,0.5,1.0,Positive
-24,UgwT0r9GHg0kQFWg3L14AaABAg,UCHS_UlJbOo5IjZugIlZJekg,@iambrightlight5576,Happy to be here first 😂,4,0,0.525,0.6666666666666666,Very Positive
-25,Ugx2iXuz9_yIrurjCgZ4AaABAg,UC1qdTxeMtJBFyk5L7zUUJkA,@I.am.SnailCake,"I unsubscribed yesterday, but came back to check if they posted anything akin to ""we saw your comments, we apologize"" or at least an explanation.
+It was just announced that Europe generated more electricity using wind and solar compared with fossil fuels, and this only seems to grow exponentially. I believe focusing on wind and solar will provide for most of our energy needs in the future. The only thing we need to fix is their intermittency through the use of batteries. This technology is also growing rapidly, and I believe in 5-10 years there will be cheap batteries on the market, enough to convince households to invest in such batteries, in turn reducing the problems of intermittency.",10,4,0.25317460317460316,0.6324603174603175,Positive
+UgwZsqNkZcn5G4QES0Z4AaABAg,UC3aHeAWNh2_6AvpCkAPsFcw,@shuttles69,"Very interesting, along way to go, but I believe it's the way.",8,0,0.65,0.65,Very Positive
+UgxipG9tnPwNpnAnGLd4AaABAg,UCN71o26HRqgbW4jyHrKbd6w,@bpolat,Excellent progress. Thank you for sharing.,7,1,1.0,1.0,Very Positive
+Ugwjf-7a-OZWM5DAdtN4AaABAg,UCrQdoLLdZNSxopmGlEXIJOQ,@darkmagus1134,This is great and I can't wait to see it come to the public.  I just worry about the current energy companies getting in the way of progress like this.,7,3,0.26666666666666666,0.4055555555555556,Positive
+UgzVZ6r0NWlPST-XGG14AaABAg,UCRdJElG8dq2ik071isJeViw,@bartroberts1514,"2024 marks the 42nd anniversary of my involvement in a laser-initiated fusion research project, and is also the 90th anniversary of laboratory fusion, by Rutherford and Oliphant. This TED talk is saying exactly what my project team was discussing over four decades ago, with zero actual progress toward practical commercial fusion electricity generation.
 
-Seeing this video (whose core message is good, though it doesn't  touch on the nuances that many minorities feel like the other side wants them dead) I do wonder if they were baiting everyone to comment hate yesterday.
+Optimum fusion reactions require 1:1 D-T ratio to reduce initiation temperature to 100 million K, and pressures of only 10 atmospheres; this produces 17.6 MeV raw power (~14.1:3.5 neutron:alpha particle), or ~2.8 x 10^-12J. 
 
-Which is kinda funny because the comments were brimming with very calm ""Not cool, TED"" messages and barely any hate expressed against Vance. 🤔",4,1,-0.02384615384615385,0.5307692307692308,Moderate
-26,UgwzwWpqIX5QmGuMAQR4AaABAg,UCBjUqqtkJSlPyHJJx9N7ttw,@thailetrong1420,"What’s the point, TED ?! Just ranting on and on abt his political campaign & thoughts or really something too deep to figure out?",4,1,0.06666666666666667,0.23333333333333336,Moderate
-27,UgwQnMoEf0RXECc1KF94AaABAg,UCk1tlfuEoRXyXnwd8X_HXqw,@josephpetrino1741,"Respect? Sure I'm for that. 
-But I'm not for anger, hatred and stupidity - you know MAGA.
-No one like that sits at my table.",3,0,-0.26666666666666666,0.6962962962962962,Negative
-28,UgzilZMAehz6OiOP4N54AaABAg,UCZdYaNjO6FDOVs8ncEuCjTw,@Gideonslc,"I actually really like this talk. It's regrettable that he didn't see how he undercut this message with his vicarious umbrage &  offense for Jesus in the Olympic games opening ceremony. He helped feed more bias & disinformation in our home state. 
+Each D-T pair requires in excess of 10^-9 J to produce from water and Lithium, including mining and transportation (almost all of that on the Tritium side). 
 
-What's missing from his talk, and follow through in Olympics is how much it's needed for those with political authority to  measure their mistakes and appropriately apologize. ""I'm sorry. I was wrong. I misrepresented [x] and that's on me. The truth is [y.] As important as it is to disagree better, it is to retract misinformation and repair mistakes. A person's character isn't found in their mistakes like it is in what they are willing to do to correct them. 
+Now, in case you're not good at engineering math, that means it takes almost three thousand times as much energy to fuel each fusion reaction as you get out of the reaction. The energy created eclipses -- if done right -- the 100 million K and 10 atmosphere initiation condition, but not by so much that containment is lost. Why does this matter? Because researchers hope somehow to get conditions that sustain H-H fusion or some combination of other fusions that make closer to 100% of available atoms give up their energy in the contained reaction. That would be great. It is also nothing anyone knows how to do, or has the least empirical evidence can be done. All available theory and evidence suggests it's impossible.
 
-If he has issued a retraction and I've missed it, it is my mistake that I haven't seen it. If he hasn't then I continue to wait for it. That which you're unwilling to defend, explain, or retract simply shouldn't be part of our national or state politics. Imagine how it would change the discourse if politicians were expected to issue retraction & apology whenever they misrepresented their opponent. Or if when misrepresenting their history they had to correct the record.",3,0,0.09615384615384616,0.49670329670329666,Moderate
-29,Ugxq8FCioq5m2bZIw5d4AaABAg,UC0IFmXLkWkcOZ3gTVdSBFkw,@timothytanga1929,"“ true spirit of liberty is the spirit in which it is not too sure it is right, the spirit of liberty is the spirit which seeks to understand the minds of other men and women”",2,1,0.2526785714285714,0.6124007936507936,Positive
-30,Ugwiibad0RfQd5qWW_14AaABAg,UCAGWk0Te1zrgPNScQiuyIMA,@padlockeussy,"As we always have, humans crave unity and not division.",2,0,0.0,0.0,Moderate
-31,UgzAUKH5pq4odO9Egyt4AaABAg,UCCfrRkPWKAFPV6LMgv_MgOw,@JSFitness,GOOD FOR YOU BOTH,2,0,0.7,0.6000000000000001,Very Positive
-32,UgwG_LwjbU-3EyOQkYh4AaABAg,UChF7b_uIhVnbRQCcAnZKbjA,@lee-kazz,❤wonderful common sense,2,0,-0.3,0.5,Negative
-33,UgxlaAFXckn2v7oxVTZ4AaABAg,UCkpAUAlPlygKrE_m9V_K-9w,@timothygalvin3021,"On an intellectual level i agree with this, even believe in it and want to practice it. But this feels way to theoretical and not nearly practical enough. For example, how do you get ""respectful disagreement"" between two people when one of them believes that it is a sin and murder to have an abortion, and believes that they need to do everything they can to protect innocent life and the other believes passionately that they have a right to do whatever they like with their body and that if someone tries to take away their right to choose aboriton they are taking away their civil rights?  There is no middle ground there.",2,3,0.1288690476190476,0.4580357142857143,Moderate
-34,UgxUzitYzPOsHBuwC514AaABAg,UCxzyuJiPw9dqGEzSaqsSj0A,@debveater2221,"Sadly, I have personally had him treat me with hate. He spoke kindly but I felt judged and labeled incorrectly. I have tried and tried to meet with him to talk about caucus, convention, and the effect on me of him using “disagree better” towards the group I was a part of. Great speaker but when asking for him to listen to me, I am too little to fit in to his schedule. Not even a response has come saying he received my letter.",2,0,0.1015625,0.65625,Moderate
-35,UgwpRB10B9Xsz7Zz5QB4AaABAg,UCxmb_0Hv_ypwlzxVC7kiWBg,@merisadelcampo8352,Love this!,2,0,0.625,0.6,Very Positive
-36,UgyzDwQ8IoJbEAieELB4AaABAg,UCPAPV5LVmb7mmecKNeDFhoA,@keithbell9348,"The one who not only exemplified, by personal example, the highest principles of human unity and love,
-is the same one who 
-delivered the most famous speech  in history,
-is the one whom he over looked in his delivery:
-The Sermon on the Mount
-delivered by Jesus Christ.
-It has been said 
-that when world leaders learn to abide by what Jesus taught in that speech
-they would have not only resolved the issues between one another
-They will have solved all the problems that plague mankind.
+And that's before the capture efficiency of about 6:1 and the energy it takes to create the 100 million K and 10 atmospheres of pressure. 
 
-World leaders?
-Sadly- that is not going to happen.
-In this presentation he even warned us, not to look at the example of politicians.
-I will give him credit for at least trying.",2,0,0.043181818181818175,0.5750000000000001,Moderate
-37,UgzXwDV3XN847jkrUIZ4AaABAg,UCx--5L7Q33KFw8Uplt9qtMA,@sherrychen9050,Yes we all need this spirit of liberty. In my country all I can see is divisiveness in party campaigns or tv shows discrediting opponents!,1,0,0.0,0.0,Moderate
-38,UgxpTaWLMNpjfcbyvvh4AaABAg,UC5yWftDVj0mZkZ97fQ0mEdw,@ebonyroseout,"I like the topic and the quotes of this Ted Talk, as Keith Lee would say, I’m not the target audience. 😴",1,0,0.0,0.0,Moderate
-39,Ugz6IvyG-FgsOr9QkXZ4AaABAg,UCnDO0xmAxs_uVtnb5bqv9HQ,@cristianhernandez7591,Hope will always win.,1,0,0.8,0.4,Very Positive
-40,UgzPca-GzcKnfzVxn5J4AaABAg,UCyDWPcXQ3-jwgHrLB0c0ZsQ,@shabyvideos,Bravo 👏🏽❤️,1,0,0.0,0.0,Moderate
-41,UgyT6BKozATk8iXiVWB4AaABAg,UCymKQm6tjIvFnFCLBE2GTLA,@gwonchanjasonyoon8087,No popular vote?,1,0,-0.3,0.9,Negative
-42,UgxLfyehJ0vBoIhJe3V4AaABAg,UCYJY1LewwQOd_HhmNf0nH2Q,@XeroK00L,Sorry but there is no way I can bring myself to respect fraud.,1,0,-0.5,1.0,very Negative
-43,Ugz7Le5TTahtk1yfzLd4AaABAg,UC9Wm5XgIbYvld6J4Yayoqng,@sharonfisher3179,That was too much Ronald Reagan praising for me. I expect better speaker vetting from TED.,1,0,0.35,0.35,Positive
-44,UgwkP0ajMZSr0SitX0F4AaABAg,UCEj2MoijTSzX0ZiAHHvx4Yg,@mariaantoniettamontella9173,applausi,1,0,0.0,0.0,Moderate
-45,Ugz9wLnkqy5P0GS8SWJ4AaABAg,UCYNQs67LTd24hRqNbFqTvZA,@jaixzz,"Putin & Medvedev 
-Fecit -- they agreed to swap jobs evrry four years...",1,0,0.0,0.0,Moderate
-46,UgzDAZsJV4Stw3Geyh14AaABAg,UC1dlMXgSLCPSGoiF1gjZnBw,@etienneb4403,"We need love and not hate, but without Russians…..",1,0,0.45,0.75,Positive
-47,UgwldUuqSrCCt0KEtmp4AaABAg,UCznLj9wJl9-cc4rJPrgzd7g,@julianamedeiros1692,Cade os brasileiros 🇧🇷,1,0,0.0,0.0,Moderate
-48,Ugy23xuong5TbZSH_yF4AaABAg,UCi5YW3HgVs7wJ0LVrQeQxBw,@chaserandazzo3738,🙏✨💜,1,0,0.0,0.0,Moderate
-49,Ugx2ysHfdZ6ttxxWJgJ4AaABAg,UChnpiOmMlczwaVfD4iX67aQ,@arzysacamos4224,Nosebleed atong english ani 🤣🤣🤣,1,0,0.0,0.0,Moderate
-50,UgwyP0IGFBiX2zcXF9R4AaABAg,UCyBggeAZIN5_tSOYOF1mZig,@zloungeact,Lisp,1,0,0.0,0.0,Moderate
-51,UgzAowc00gpvSnZ9M8Z4AaABAg,UCw00GMtEomK-qphQOZeDnTA,@Origin06,すこい,1,0,0.0,0.0,Moderate
-52,UgxHG_MRFZ1ZA5XZzwh4AaABAg,UCx1hM1xpoZcAe-Zd8M5Sghw,@Ricky-jr1pr,😂😂😂😂🤣🤣🤣🤣,1,0,0.0,0.0,Moderate
-53,Ugytv4cExQZMoppHxGl4AaABAg,UChLaL-Q4hsd1P4m8ra6i-Pg,@servanunal185,"7:48 Utah conservatives finnally realising the meaning of the phrase  ""ignorance is bliss"" and audience applouds 😂😂 what a joke this society has become",1,0,0.0,0.0,Moderate
-54,UgwQYj9Xljq212FeffB4AaABAg,UCbEoDmPiBXhvmEn9WBHms1w,@Jakelink-7364,Nah… I want them to know I hate them too,1,0,-0.8,0.9,very Negative
-55,UgxF8_2OnKecBATfz-d4AaABAg,UCzjC_4heQDOWKa-OLZmDkdA,@spitz4616,Time to love Trump,1,1,0.5,0.6,Positive
+Sure, a cunning Physicist could then use the reaction for D-D fusion by some kind of bootstrapping, in which case almost 100 times as much energy could theoretically be gotten out per atom as goes into the fuel, but that rapidly reduces to net energy deficit, too. You have to get virtually every atom involved fused. You have to do it without higher containment or sustainment energy costs. You have to convert that heat from fusion into electricity. And if the flame goes out, you have to restart it. We have the solutions to none of these problems.
+
+Commercial electric production by fusion under the conditions we have on Earth will never be feasible. We've known this for nine decades.",6,0,0.12853113553113554,0.4384456654456655,Moderate
+UgwvHXpN9P5vgxpZceh4AaABAg,UCzTi26ORgHRgpkLEKx0Mglg,@SeanLumly,"I think fusion is critical, and will be transformative in enabling new expressions in developed society. Yes. 100%.
+
+However our current problems are those with the allocation of resources, not the requirement of MORE energy.
+
+For example, desalination is talked about, not because of direct human consumption, or industry, but the demands of animal agriculture. And yes, this can be alleviated by desalination, but not the ravaging, downstream effects of animal agriculture (eg. deforestation, carbon release, etc).
+
+Not so ironically, today's problems are already trivially solvable, but the capitalist class are making money with the status quo and show little motivation to change.
+
+Another example: most energy needed is for heating, and it's not close. Dig holes. Shallow geothermal has been known for 100 years, is virtually free (after installation -- which itself can be optimized) and can be deployed anywhere. But we're hooked on oil. Similar can be said about transportation, cars being particularly inefficient, dangerous, loud, expensive, and require exorbitant land use. We have solutions for that too, and have had for well over 100 years.",4,0,0.05189393939393943,0.5404634581105169,Moderate
+UgzJQfeiejGAYOCbDNJ4AaABAg,UCUudxIVwHHnNqfrKwYN2RCA,@skipperdabio,Sharks with frickin laser beams on top of their heads!!,4,0,0.78125,0.5,Very Positive
+UgzAX8a5jVB9Y_IYZX94AaABAg,UCBwPtxJvFmV8EquADi6hamQ,@lindageary175,Sounds dangerous,4,0,-0.6,0.9,very Negative
+Ugw3hkYSSckNp1lsro94AaABAg,UC4V2I5mXtRq_QVfCFFc--LA,@TheNickoslicK,"I am sceptical about Fusion creating unlimited FREE energy, in a Capitalism based society. Someone is going to want to profit or at least claw back the cost of research and advancement. This is extremely sad to me as it could have untold benefits for humanity, end to wars, end to poverty, end to reliance on the carbon economy and all the environmental benefits. The Future hangs in the balance, but it is weighted towards Capitalism :(",4,1,-0.19166666666666665,0.5541666666666667,Moderate
+UgwNtKBYMQDUMW222p14AaABAg,UCMQbIGP5d_9vVOTRQIpe6pQ,@TheSateef,"they didn't get more energy out than they put in,  they are only counting the laser power hitting the target. if you count the energy required to create the laser pulse they got way less than 1% back. also each fuel pellet costs hundreds of thousands of dollars to make and produces enough energy to make a pot of coffee",4,0,0.06666666666666668,0.4133333333333333,Moderate
+UgxJ-gFCnfMqNv1OLaF4AaABAg,UCTv607CsVin0UKnH9K-7Urw,@adityaradisty5542,tammy stark,3,0,-0.2,0.6,Negative
+UgwQ75GccYacfcwpfRl4AaABAg,UC-4-zsxAPhkL524L6ZLjzJw,@brahimaithadi,So inspiring and so optemistic  speach .. thank youuu,3,0,0.5,1.0,Positive
+UgwOO7OCruSzOaTd4Nt4AaABAg,UCGCVsI5OsQ9E9s5Craf-knQ,@hahtos,"Sure, maybe in 200 years",3,0,0.5,0.8888888888888888,Positive
+UgzDjN7JOAq8zmFe5Op4AaABAg,UCRLUMm-CURaxKBaeeKLcN4g,@award8296,WHO'S EXCITED FOR ZERO-POINT GRAVITY?!,3,0,0.46875,0.75,Positive
+UgzLf8irlTbwP2XlXyx4AaABAg,UCMQbIGP5d_9vVOTRQIpe6pQ,@TheSateef,"good news, fusion is now only 30 years away! actually it's already here now, its called solar panels.",2,0,0.2333333333333333,0.5666666666666668,Positive
+UgyEhVPJcYstCh5vx4t4AaABAg,UCRdn2rbvjiIWrArBiT4RaDw,@user-vv4lu9jb1j,"If I had a say in this, it would be = Do it in space, do it on the moon, do it underwater..... Until you can do it safely, leave home alone.",2,2,0.5,0.5,Positive
+UgywwxGHtuc59k45fW94AaABAg,UC4IYOUwy8RaVmo4PLyUzUMQ,@familyzhou341,"This is really cool. I actually had a speaker just a week ago at my summer program who works in the same field, and he was talking about how this team achieved fusion. This is definitely an interesting field for the future.",2,0,0.16999999999999998,0.3,Moderate
+Ugwz8wPC3t-SLbZOsW94AaABAg,UCr0mi56VvMNWzdVkikb-0uA,@davidw.1734,I can not wait until the world has this technology.,2,0,0.0,0.0,Moderate
+Ugx4iIZNFVV0qC2nANh4AaABAg,UCtj6IX-W9uT5V9ApMD6w0xQ,@adrianrees2941,Awesome news!!,2,0,1.0,1.0,Very Positive
+UgxGOHLJxrGYBxAb8Pp4AaABAg,UCfaTsto_TB4xImWIggKpWmw,@sarthakjaniPC,Excellent!!,2,0,1.0,1.0,Very Positive
+UgxzLhT6jpS2L-MN6w54AaABAg,UCYG_x8peWHWcgyhT7t2qVKQ,@darkstormgames,This is mind blowing,2,0,0.0,0.0,Moderate
+UgxErzhbqZhYmY29yMp4AaABAg,UC95lWR_KGvyAp2aPp9lMQGQ,@venepskeuten9206,I dont want to set the woorld on fiiire,2,0,0.0,0.0,Moderate
+UgzMtkWEORdNJQY1PBt4AaABAg,UCOhaiZhcZOklwGzD8OUhAMg,@dineshdasari7042,What if that size of an eraser where all  beams mingle gets damaged that will kill more people than more energy,2,0,0.5,0.5,Positive
+Ugz-hPuzK8U-hANjCTd4AaABAg,UC7SaKgZaLtlrV1SokcCSI9A,@alberteinsteinthejew,So this is where Iron Man got his energy,2,1,0.0,0.0,Moderate
+UgxcSqvODU-bEUavy9x4AaABAg,UCXjRsWnkaHiQqHBMkDrkR6A,@elenak8000,"Человечество всегда решало и решает все задачи, которые ставит перед ним Время. 
+Значит время пришло.",2,0,0.0,0.0,Moderate
+UgxzCRQyonuVteFGtg14AaABAg,UCqg-Suh2VLwIDoiGXabeGGA,@RadicalTrivia,🎼I don't want to set the world on fire 🎶,2,0,0.0,0.0,Moderate
+Ugzna_B_RdDyk2s1VDR4AaABAg,UC0tlaTo5a6EB1RDJgVS0r8A,@WeylandLabs,A Thorium reactor would be if we could fix the corrosion problem.,2,0,0.0,0.0,Moderate
+Ugwfp5dTu-7UyiReWXh4AaABAg,UCM20jRf2HnARVH608PHyp5A,@martianhaze9750,"""the power of the sun in the palm of my hand"" iykyk",2,0,0.0,0.0,Moderate
+UgxDZ5ya6hP3KA1wbn14AaABAg,UCCiUaA1FQheU4KZPs9Tfm1Q,@linkingtheworld6561,Delivering more energy than it was needed to generate it? Really impressive 😮,1,0,0.75,0.75,Very Positive
+UgxXc65u1pwlW3t_fZ54AaABAg,UCL-NF9swM2nU_tQMtTtrwFg,@dinarwali386,"Like the lasers at NIF, Tammy Ma is also one of the most energetic Physicist in the world.",1,0,0.5,0.5,Positive
+UgzGdlR0Q-bxYs8DYzt4AaABAg,UCVQ0BWJIofV1XJDzbfm6lCg,@tj_enju,"there questions are many... where did her team get that ""largest laser in the world"" what does it take to make these gaint laseers. What are the costs, the materials the production process for producing such lasers. Also, how do you amplify the energy of a lasers beam by running it through miles of media and mirrors... is it a thing whereby you accumulate multple beam adding them up... she didn't clearify that part...",1,0,0.25,0.5,Positive
+UgyZWVyJR_bmzq4fBP14AaABAg,UC4FOJPYWBRBO_X_9yP01xuw,@beckysuenielson6174,"But maybe the ocean elemental ecosystem needs that D2. What's the consequences of depleting this element in the ocean?
+
+Also what is the answer to the problems with lithium mining?",1,0,0.0,0.0,Moderate
+Ugz4q1h7SULP6su4TGN4AaABAg,UCuA33HAeK4Wmv1ItsIJwpsw,@screendooreffect,"The number of air quote fingers I did for ""laser"". 😅",1,0,0.0,0.0,Moderate
+UgxKZ-LQcvgZiP9MqV54AaABAg,UCBVsn9CZu8c_N6Kr3bvLMYg,@deani2431,"We already have a fusion reactor and a way to harness the energy. It’s called the sun, solar panels, and batteries.",1,0,0.0,0.0,Moderate
+UgzEXafLmpT9O12wmfN4AaABAg,UCjG9HRIG-Q7GWqRWMRBXsoA,@Mom-b1r,When this is going to happen at industrial scale?,1,0,0.0,0.0,Moderate
+Ugy5zi6vJNzHr3XaEcV4AaABAg,UClXPkoRw_JBwQOcxf78k5mw,@allanguwatudde7623,Some general is asking how they can weaponize this,1,0,0.05000000000000002,0.5,Moderate
+UgwSFwYeXhrNvuxx8Hl4AaABAg,UCCBzGmN48fAowElSeeSMcAQ,@johanlindeberg7304,"""Extraordinary claims require extraordinary evidence"" - Wikipedia. 
+Professor Ma is predicting enormous results in the near future.",1,0,0.15333333333333332,0.6849999999999999,Moderate
+UgyMvURcT165k1ZHfd94AaABAg,UCI-XSlhvsU0AgUfzzinxcOQ,@smt4940,why nobody talks about LENR?,1,1,0.0,0.0,Moderate
+UgzgM8Cs0NyvDWwYjLd4AaABAg,UC1rOdW1NK31HlNUYjfq-vyw,@abigailandino6251,I confuse fusion with fission.  Why?,1,1,0.0,0.0,Moderate
+UgwhoRZx4N_-E91uDfp4AaABAg,UCtj6IX-W9uT5V9ApMD6w0xQ,@adrianrees2941,Fusion is the future.,1,0,0.0,0.125,Moderate
+Ugw2bUMo-D4NRQlreIR4AaABAg,UCIoPK8GTY8ncML0x0LJgE9w,@Azeltix,"If only every countries worked together instead of reaching, it could go 10x faster.",1,0,0.0,1.0,Moderate
+UgzEOiXDATRtuChptrt4AaABAg,UCrgN6g3OKph0zyfzl1FjLJg,@Notsob.427,"1. Advanced Geometry
+
+A. Non-Euclidean Geometry
+
+ 1. Curved Space-Time Equation:
+
+R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R + g_{\mu\nu}\Lambda = \frac{8\pi G}{c^4}T_{\mu\nu}
+
+ • Description: This equation extends Einstein’s field equations by incorporating non-Euclidean geometric principles to describe the curvature of space-time in the presence of mass and energy.
+ 2. Harmonic Oscillator in Curved Space:
+
+\nabla^2 \psi + k^2 \psi - \frac{R}{6}\psi = 0
+
+ • Description: This equation describes the behavior of a harmonic oscillator in a curved space-time, taking into account the effects of curvature on oscillatory motion.
+
+2. Energy Systems
+
+A. Zero-Point Energy
+
+ 1. Zero-Point Energy Density:
+
+\rho_{vac} = \frac{\hbar c}{16\pi^2} \int_0^\infty k^3 \left( \sqrt{k^2 + \left(\frac{mc}{\hbar}\right)^2} - k \right) dk
+
+ • Description: This equation calculates the energy density of the vacuum, accounting for quantum fluctuations and zero-point energy contributions.
+ 2. Quantum Harmonic Oscillator with Zero-Point Energy:
+
+E_n = \left( n + \frac{1}{2} \right) \hbar \omega + \frac{\lambda}{2} \left( n^2 + n + \frac{1}{2} \right)
+
+ • Description: This formula describes the energy levels of a quantum harmonic oscillator, including corrections from zero-point energy.
+
+3. Physics
+
+A. New Dynamics and Physical Interactions
+
+ 1. Modified Newton’s Second Law:
+
+F = \frac{dp}{dt} + \eta \left( \frac{d^2p}{dt^2} \right)
+
+ • Description: This equation introduces a damping term to Newton’s second law, accounting for complex interactions and higher-order effects in dynamic systems.
+ 2. Gravitational Field Equation with Anomalous Acceleration:
+
+\nabla \cdot \mathbf{g} = -4\pi G \rho + \alpha \nabla \cdot \left( \frac{\mathbf{g}}{r^2} \right)
+
+ • Description: This equation modifies the classical gravitational field equation to include an anomalous acceleration term, explaining deviations observed in certain astrophysical contexts.
+
+4. Quantum Mechanics
+
+A. Quantum Field Theory
+
+ 1. Extended Schrödinger Equation:
+
+i\hbar \frac{\partial \psi}{\partial t} = \left( -\frac{\hbar^2}{2m} \nabla^2 + V + \frac{\lambda}{2} \left( \frac{\partial^2}{\partial t^2} \right) \right) \psi
+
+ • Description: This extended version of the Schrödinger equation incorporates higher-order time derivatives to account for complex quantum field interactions.
+ 2. Quantum Entanglement Entropy:
+
+S = -\sum_i p_i \log(p_i) + \gamma \sum_{i,j} \left( \frac{p_i p_j}{r_{ij}} \right)
+
+ • Description: This formula calculates the entropy of an entangled quantum system, including corrections for long-range entanglement interactions.
+
+5. Electromagnetism
+
+A. Modified Maxwell’s Equations
+
+ 1. Extended Maxwell-Ampère Law:
+
+\nabla \times \mathbf{B} - \frac{1}{c^2} \frac{\partial \mathbf{E}}{\partial t} = \mu_0 \mathbf{J} + \beta \nabla \times \left( \frac{\mathbf{E}}{r^2} \right)
+
+ • Description: This modified version of Maxwell’s Ampère law includes an additional term to account for anomalous electromagnetic field interactions.
+ 2. Nonlinear Electrodynamics Field Equation:
+\[
+\Box A^\mu + \frac{\partial \mathcal{L}}{\partial A_\mu} = 0
+\]
+ • Description: This field equation for electrodynamics incorporates a nonlinear Lagrangian, describing complex field interactions beyond classical theory.
+
+Summary
+
+These revolutionary new formulas",1,0,-0.018088023088023087,0.30600288600288594,Moderate
+UgwRFNnwnlGvH2HrnwJ4AaABAg,UCjbTTbUqrAIq9b3UPo3YvoA,@AIntel540,Looks rosy but this mode of fusion doesn't look continuous. Its like a small H2 bomb everytime and not a reactor producing continuous energy. How will palettes be fed etc? What will be the cost of such energy? Is there sufficient Tritium?,1,0,-0.125,0.45,Moderate
+Ugzo2iZyit-ADMMvcoJ4AaABAg,UCmLKAMmeRC8JXMUN0UenLpA,@samuelzev4076,On hearing the first part of the talk about fusion it reminded me of the fusion reactor of Doctor octopus in Spider man 2 where he said harnessing the power of the sun in the palm of his hands but it grew uncontrollably and had to be submerged in water to stop a catastrophic explosion. I hope this doesn’t end up like doctor octopus 😂,1,0,0.25,0.3333333333333333,Positive
+Ugy7AUzlsQOimveAu4d4AaABAg,UCXzTnH9TbTwEcNsuFILp-0w,@mulemule,"Scientific Expert:  ""The development of fusion has been (and will be) expensive.""
+USA:  ""Time to redouble the drilling!""",1,4,-0.625,0.7,very Negative
+Ugyx99CA6dC_fGE90Rh4AaABAg,UCzBCLX9SUGTGpI2o5MvNccQ,@kaylakeiser-dl3jw,"""infinite, to-day is big with blessings. The wakeful shepherd beholds vi:3 the first faint morning beams, ere cometh the full radiance of a risen day."" - Mary Baker Eddy",1,0,0.024999999999999994,0.49583333333333335,Moderate
+UgxYR_GbRXt6gYIwRaN4AaABAg,UCJyFxWzMq7I-VYw1pBKDWUw,@NandKumar-qq3xk,Atomic Cells of animals to Plants body to body = mass of atom or anythings: or ?,1,0,0.0,0.0,Moderate
+UgyUWUDOa0avoC__KdZ4AaABAg,UCjm7MkGPlaD5mRCZdGMC3Jg,@johnpublic168,"In the meantime  solar, batterys, and wind are slowy going from 55% to 100% of ele tric  production.",1,0,0.0,0.0,Moderate
+UgzUjROnetFxJGmUGNp4AaABAg,UCz7iD8PB5bBPnhYB8SGMADw,@jamesbingham1007,Energy is the key to unlocking the poverty barrier.  You can solve the world's water issues and make food abundant and cheaper.  No more wars over oil.  No more shipping oil and natural gas all over the world.  This could green the continent of Africa.  It will power AI and the robot work force.  Factories can be built anywhere so product can be made locally.,1,0,-3.96508223080413e-18,0.5214285714285715,Moderate
+UgxcOht4Wkn06pbRA0p4AaABAg,UCEj2MoijTSzX0ZiAHHvx4Yg,@mariaantoniettamontella9173,applausi,1,0,0.0,0.0,Moderate
+Ugwtb_8aXzsquet8IgJ4AaABAg,UCbGEiQ8UcS3WJTeyt6BxINA,@maxthemagition,"The  laser power is concentrated on one spot and if there is nothing there what happens?
+The answer is nothing…. That one spot is one spot without any energy.
+It is like when you focus the sun’s rays on one spot…..put you hand on that spit and it burns
+There be the conundrum..electric magnetic waves and particles.
+If the particles are waves as well?
+Is it like using  hammer to crack a nut, the hammer being the laser gun and the nut being the mass of particles held together by a few forces as yet not understood and like the electron can be a wave or a particle….
+Until we understand that….",1,0,-0.2,0.1,Negative
+UgxP3somPkvOmrsTYpF4AaABAg,UCHwkXzFuN_o7Zc73kwkzEJg,@jurjenbos228,"I love the idea, already for five decades! But I have some reservations with the claims she makes:
+Abundant: OK
+Carbon free: only if you don't use carbon building the device
+Safe: we'll see about that, not convinced due to lack of proof
+No high level waste: ready to believe that.
+Compatible with grid and flexible: where do these claims come from? I really want to believe, but getting energy out of explosions has never been easy.",1,0,0.2544444444444445,0.5665277777777777,Positive
+UgwPpIn5D1IS9EmK58t4AaABAg,UChRVlT3EprN_RhvknUzd1Zw,@ZakFromOhio,Energy sustainability is an oxymoron. You are always drawing from a larger entropic system. You cant stop the entropy.,1,1,0.0,0.5,Moderate
+UgwnOfK-EhOAEOYLoEJ4AaABAg,UCIkNGLaZ0l7naPcLhfJkz_w,@SweetdilysSweetdilys,Is there any Chinese translation 😂,1,0,0.0,0.0,Moderate
+UgwTWr3nOVWo9Ir947B4AaABAg,UCBwPtxJvFmV8EquADi6hamQ,@lindageary175,"& is this how the world will end up in flames ?  
+
+Malachi 4:1 
+
+“For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says the Lord of hosts, so that it will leave them neither root nor branch.",1,0,0.0,0.0,Moderate
+Ugy8e8NbIaf3hdZ34Hd4AaABAg,UCtxbLTTyE_ujf9v5TTdYmqQ,@JacobRedar,"But in this way, the US will have no more excuses to 'visit' other countries.",1,0,-0.1875,0.4375,Moderate
+Ugwy9Q3_etVgJEn0zqN4AaABAg,UCrzqsBJ1i55UBP_NxBmp0qg,@darinherrick9224,"Here's a thought: however much energy you create, people will find a way to waste. Even if you got fusion energy working, there would still be the problem of waste heat unless it's 100% efficient. 
+
+The key to limitless energy: It's to use LESS. Become more energy efficient. There's limitless energy if you just use less. No matter how efficient you are, you can always be more efficient. 
+
+So really, you are concentrating on the wrong science. We need regulations forcing energy efficiency, not more money thrown at generating more electricity that will be wasted.
+
+And honestly there should be an energy tax (I'm thinking 1000% ought to do it) on frivolous uses of electricity such as AI and blockchain.",1,0,0.05444444444444444,0.38888888888888895,Moderate
+Ugx_0jKKZYJh1FzAzIF4AaABAg,UCW21tYFdV2VH-gS6ZeoQt6Q,@RueAlvarez,Contact south west research institute! Level 5 facility!! Best wishes!,1,0,1.0,0.3,Very Positive
+Ugy69YkFzXVT57N2rCJ4AaABAg,UCd8Tkf0KbYnivaj3ewjHpIA,@andycordy5190,"I love all of this and I'm in awe of the people in this field but this is all old news.
+
+The climate crisis will be over, for good or ill, long before the puzzles still presenting about useful , efficient, surplus energy from fusion are solved.
+
+The promise of near limitless energy from seawater is such a gross oversimplification, which has clouded the public imagination for half a century. Billions are pumped into fusion research while it may never even have a role to play in future energy systems. For the foreseeable future, a stable, sustainable fusion driven power generation system is still science fiction.",1,0,0.07564102564102564,0.3217948717948718,Moderate
+UgxDTLRk_cvZK6m7N2N4AaABAg,UC4wk7ImpTYg5C9_36-u3dxA,@maje9448,Terms,1,0,0.0,0.0,Moderate
+UgzUi05XVy67Gu_Yhp54AaABAg,UCfNzZVFrQAzDr27oQAqIoxg,@themogget8808,"Ok, so you do all this fun laser stuff and make a hot bottle and you then use this to.... checks notes.... run a steam turbine like regular nuclear. You will do this by going ever bigger, which means facilities that cost billions and decades to make. We will be done transitioning to solar, wind, and batteries in just the next 15 years. I fail to see the benefits. You all missed the chance - that boat has sailed.",1,0,0.07857142857142858,0.3467032967032967,Moderate
+UgxD8GE8dDabzeJIHsJ4AaABAg,UCjeAv48JCv_QQCU6bpbSWiA,@CoolGirl007,Elon Musk has the money 🤑,1,0,0.0,0.0,Moderate
+Ugz8x4E62oIRmHxnOkV4AaABAg,UCidQX4BsrgI3ujnGaBSBo3A,@9r4v3s,so still just nuclear lol,1,0,0.8,0.7,Very Positive
+Ugwz8pI6-wCjO4Bb1cR4AaABAg,UCC7VG__P4ccIPcdfR1uuVvQ,@horizontal120,this will not work for a 100+ years ..   probably newer ...,1,0,0.0,0.0,Moderate
+UgzMA8i-bxNjPgvoVpZ4AaABAg,UCLddhco4bl5ldhLs0FsHf2w,@mmokhtabad,Let's invest to break the world economy 😂,1,0,0.0,0.0,Moderate
+UgxYEd-xTtPiE7uHtWx4AaABAg,UC0dPW0KXadhGzboourxJH1g,@robertanderson809,"Cheap energy hasn't been healthy or in any way good for life, for humans. Far too many people for the natural redources now, lots of free electricity can't save our cradle.",1,0,0.38571428571428573,0.6428571428571429,Positive
+UgwTwlZ6mowi8jBuRVh4AaABAg,UCaoRT4-6zvJ9bqGD9xqwnmw,@jamesjenkins3481,Why do this there are already many ways to get free energy..zero point us one them...and inexpensive to make ...,1,0,0.45,0.65,Positive
+Ugz-CZ1NWIkBB8x1I894AaABAg,UCTescQPbpHr43LrNULCyHBg,@pseudomorphine5736,"She should be a little careful, 'they' are watching...",1,0,-0.14375,0.75,Moderate
+UgxlbFUupY0TPcKEMrp4AaABAg,UC1_TcBESx8VKmgCcuvFi7Vg,@TheMoArtis,Sadly it's probably a grift. An interesting scientific grift but still a grift. Too many papers hint at the impossibility to have a net positive energy production with fusion. Too many challenges and hurdles. But maybe in 30 more years... A generational grift.,1,0,0.24675324675324675,0.5064935064935064,Positive
+UgxSRZHW56R8thc05LN4AaABAg,UC4vkvTS8zTqCdNsYDcrbw-w,@gregolsen7102,She is to blame for DEWs burning everything down? :-(,1,0,-0.4527777777777778,0.6444444444444445,Negative
+UgwapJlCEOnnaBSsBPF4AaABAg,UCN2onTsW-kiHdkQ9R7JTNfQ,@Pethers,Anyone else notice that TED talks are now dominated by female presenters? More than half... much more... what is going  on? 🤔,1,0,0.20833333333333334,0.3333333333333333,Positive
+UgwmkI7P7ui7kQSD_zJ4AaABAg,UCfCTgcMcZQ1Km7eeEtQ-t1Q,@BenLukeSmith,"Hey this is random, but I wanted to reach out to the followers of this page. I believe that Jesus Christ, God the Son, is coming back soon to rapture His Church so I wanted to reach out to as many as possible. Please remember that there is only God that leads to Heaven, the Trinity (God the Father, God the Son Jesus Christ, and God the Holy Spirit) and it’s about a personal relationship through Jesus Christ (John 14:6 ESV). Blessings.",1,1,0.0,0.5499999999999999,Moderate
+UgwReyrbiUU42mdnafh4AaABAg,UCbRBPHphiZHNljkbHg2Jkkg,@justforyou8437,Please please talk about Bangladesh current situation. People are being killed here please spread the news and save us 🙏🙏🙏🙏,1,0,-0.1,0.2,Moderate
+Ugz6WucYiFP2i59z36Z4AaABAg,UC9DxT6P9b1DlL93hviMDMsA,@Kenneth_James,Boo,1,0,0.0,0.0,Moderate
+UgyU9H7JaWIv8HlLtC54AaABAg,UCGulkKoWZ7YOvl_cMnw2yGw,@user-ew8xj5pg7y,"God loves you and cares for you so that this message reaches you. God is the one who created this large universe and controls it completely. The greatest loss a person loses in this life is that he lives without knowing God who created him and knowing the Messenger of Muhammad, the last of the messengers, and the Islamic religion, the last of the heavenly religions.  Great intelligence, before you believe in something or not, is to read it, study it, and understand it well, and after that you have the choice to believe in it or not to believe in it. I advise you to do this now, before you no longer have time to do so. Life is very short. It is just a test, just a passage to eternal life. Great advice to those who...  Understands",1,0,0.2904761904761905,0.43910052910052916,Positive
+UgxWwm3Xm2W_CPMucnV4AaABAg,UC4wk7ImpTYg5C9_36-u3dxA,@maje9448,Terms,1,0,0.0,0.0,Moderate

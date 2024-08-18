@@ -54,7 +54,7 @@ while run:
         comments.loc[ind, 'sentiment_cat'] = comment_cat(comments.loc[ind, "comment_polarity"])
 
     print("Generating Output CSV file🗃️🗃️🗃️")
-    comments.to_csv("comments.csv")
+    comments.to_csv("comments.csv", index=False)
 
     print("\n\n")
     print("Presenting Final Summary👉👉👉")
