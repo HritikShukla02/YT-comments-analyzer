@@ -14,3 +14,6 @@ Extracts comments from a YouTube video and analyzes their sentiment to provide a
     - A score of 1 indicates that the text is entirely subjective.
 
 These ratings help determine the overall emotional tone (polarity) and the degree of personal opinion (subjectivity) in the text.
+
+##### Example Output: 
+![Example Output]("./Screenshot 2024-08-18 180523.png")
